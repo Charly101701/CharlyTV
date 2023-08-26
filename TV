@@ -40,3 +40,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-logo="https://i.imgur.com/vkT4zq7.png" group-title="Undefined",Televisa Zacatecas (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 #EXTINF:-1 tvg-id="ViXParejas.mx" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Entertainment",ViX Parejas (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Milenio Televisión Noroeste (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Religious",Monte Maria (1080p)
+https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
