@@ -210,7 +210,26 @@ http://clubtv.link/0125d/phpcode/lista0.php?c=44&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/0125d/phpcode/geomex.php?c=a03k&token=tecnotokenplustv&f=.m3u8
 
 
-#EXTINF:-1 tvg-id="BobEsponja.us@LATAM" tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="CARICATURAS", Bob Esponja 
+#EXTINF:-1 tvg-id="BobEsponja.us@LATAM" tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="CARICATURAS", Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=
+
+********************************************** MOVIES *****************************************************************************************************
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/dz1PbMrkpVhURKtvv7w2Ib1iZDK.jpg" group-title="MOVIES", TRON ARES
+https://s10.vimeos.net/hls2/03/00007/b038pvfc3x1n_h/index-v1-a1.m3u8?t=HEPNgYaByxq-RgBdBULSke1SDWtSulBwAjozLUykIZo&s=1764763381&e=43200&v=45057077&i=0.0&sp=0&fr=b038pvfc3x1n&r=e
+
+********************************************** MARVEL ZOMBIES *************************************************************************************************
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" group-title="MARVEL ZOMBIES", T1 E1
+https://s9.vimeos.net/hls2/03/00005/69m90asp7hvy_h/index-v1-a1.m3u8?t=SEKY_3BE6UXZobnNGAK09dIpST3REFAiOO5SJDvQEHQ&s=1764763882&e=43200&v=45058659&i=0.0&sp=0&fr=69m90asp7hvy&r=e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" group-title="MARVEL ZOMBIES", T1 E2
+https://s9.vimeos.net/hls2/03/00005/6tuvg1fa0x7c_h/index-v1-a1.m3u8?t=knYgsZLQiFLWCpJ7DuJQyK4SUAYKtvmErGxDdv7K5C8&s=1764763995&e=43200&v=45059020&i=0.0&sp=0&fr=6tuvg1fa0x7c&r=e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" group-title="MARVEL ZOMBIES", T1 E3
+https://s9.vimeos.net/hls2/03/00005/yjhxf602rdwx_h/index-v1-a1.m3u8?t=5IpY0R7C-VVI2GW5PBVvwIsB6A1L7yLnFPXcXwvIas4&s=1764764077&e=43200&v=45059282&i=0.0&sp=0&fr=yjhxf602rdwx&r=e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" group-title="MARVEL ZOMBIES", T1 E4
+https://s9.vimeos.net/hls2/03/00005/lfortcqkcknn_h/index-v1-a1.m3u8?t=jDSdxCPdJHs1wjWdgUWakU287ypO1aCFLJqfWiXpKG8&s=1764764153&e=43200&v=45059539&i=0.0&sp=0&fr=lfortcqkcknn&r=e
+
 
 
