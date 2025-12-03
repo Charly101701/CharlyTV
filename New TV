@@ -52,10 +52,57 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://icon2.cleanpng.com/20180611/pgo/kisspng-univision-doral-logo-television-advertising-5b1f36e0a5f515.8264124915287723206798.jpg" group-title="ENTRETENIMIENTO", UNIVISION
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="ENTRETENIMIENTO", Canal 5
-http://104.238.205.28:8989/278329_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://icon2.cleanpng.com/20180611/pgo/kisspng-univision-doral-logo-television-advertising-5b1f36e0a5f515.8264124915287723206798.jpg" group-title="ENTRETENIMIENTO", UNIVISION
+http://clubtv.link/0125d/phpcode/lista0.php?c=3&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="ENTRETENIMIENTO", Disney Channel 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="ENTRETENIMIENTO", TELEMUNDO
+http://clubtv.link/0125d/phpcode/lista0.php?c=7&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="ENTRETENIMIENTO", CANAL 5
+http://clubtv.link/0125d/phpcode/lista0.php?c=52&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="ENTRETENIMIENTO", LAS ESTRELLAS
+http://clubtv.link/0125d/phpcode/lista0.php?c=17&token=tecnotokenplustv&f=.m3u8
+
+
+
+
+
+
+
+********************************************************* PELICULAS *****************************************************************************************
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="PELICULAS", CINECANAL
+http://clubtv.link/0125d/phpcode/lista0.php?c=50&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="PELICULAS", CINEMAX
+http://clubtv.link/0125d/phpcode/lista0.php?c=49&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/full/434-4344309_golden-plus-golden-plus-logo-png.png" group-title="PELICULAS", GOLDEN PLUS
+http://clubtv.link/0125d/phpcode/lista0.php?c=26&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://w1.pngwing.com/pngs/890/858/png-transparent-golden-logo-television-lyngsat-television-channel-design-m-text-circle.png" group-title="PELICULAS", GOLDEN PREMIER
+http://clubtv.link/0125d/phpcode/lista0.php?c=25&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vhv.rs/dpng/d/528-5288156_img-paramount-channel-logo-hd-png-download.png" group-title="PELICULAS", PARAMOUNT CHANNEL
+http://clubtv.link/0125d/phpcode/lista0.php?c=12&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo.png" group-title="PELICULAS", SYFY
+http://clubtv.link/0125d/phpcode/lista0.php?c=9&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/772/155/png-clipart-fx-movie-channel-television-channel-television-show-amd-television-angle.png" group-title="PELICULAS", FX
+http://clubtv.link/0125d/phpcode/lista0.php?c=27&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PELICULAS", SONY
+http://clubtv.link/0125d/phpcode/lista0.php?c=11&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/2560px-Star_Channel_2020.svg.png" group-title="PELICULAS", STAR CHANNEL
+http://clubtv.link/0125d/phpcode/lista0.php?c=37&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PELICULAS", DE PELICULA
+http://clubtv.link/0125d/phpcode/lista0.php?c=48&token=tecnotokenplustv&f=.m3u8
+
+
 
 
 
@@ -88,36 +135,68 @@ https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGION", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MariaVision.mx@SD" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="RELIGION", María Visión Mexico 
+#EXTINF:-1 tvg-id="MariaVision.mx@SD" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="RELIGION", María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 ******************************************************* DEPORTES *************************************************************************
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", PREMIER 01
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Icono_olmecas_tabasco_2024.png" group-title="DEPORTES", LMB OLMECAS
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", INTERNETV DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b0a716ea-32de-4378-801f-0a3e5db9bc7e-profile_image-300x300.png" group-title="DEPORTES", INTERNETV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://espnpressroom.com/mexico/files/2015/10/ESPN_Red-Logo-copy-1024x303.jpg" group-title="DEPORTES", ESPN
-https://anvtcax.fubohd.com/espn/mono.m3u8?token=79d98590a972d30bc19e085a35f3cb5872a728e5-1b-1764667408-1764649408
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES", ESPN 1 
+http://clubtv.link/0125d/phpcode/lista0.php?c=41&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2-1024x576.png" group-title="DEPORTES", ESPN 2
-https://aw1wcm92zq.fubohd.com/espn2/mono.m3u8?token=0b9027cb642262dd649137d1f7e802078b778252-b1-1764666884-1764648884
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2 
+http://clubtv.link/0125d/phpcode/lista0.php?c=40&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DSPORTS
-https://bgfuzq.fubohd.com/dsports/mono.m3u8?token=4df08740b48347c75aca9ff8001306196cd6c05e-b9-1764674410-1764656410
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3 
+http://clubtv.link/0125d/phpcode/lista0.php?c=39&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png" group-title="DEPORTES", TyC SPORTS
-https://wp9xqedt.fubohd.com/tycsports/mono.m3u8?token=531635480b44cfec32e2ddaf77669033fb3e5662-b2-1764674646-1764656646
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX SPORTS 1 
+http://clubtv.link/0125d/phpcode/lista0.php?c=30&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORTS 3 
+http://clubtv.link/0125d/phpcode/lista0.php?c=28&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/96616e173813731.Y3JvcCw3NjIsNTk2LDM1LDA.png" group-title="DEPORTES", TDN
+http://clubtv.link/0125d/phpcode/lista0.php?c=8&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN 2
+http://clubtv.link/0125d/phpcode/lista0.php?c=4&token=tecnotokenplustv&f=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hW6LFRJ/AZTECA-DEPORTES.jpg" group-title="DEPORTES", AZTECA DEPORTES
-https://bgfuzq.fubohd.com/azteca_deportes/mono.m3u8?token=d0a6828ec7d58f1c1a1b8dc5dd55f8bce8ad0eff-94-1764674994-1764656994
+
+****************************************************** DISCOVERY ********************************************************************************
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="DISCOVERY", DISCOVERY CHANNEL
+http://clubtv.link/0125d/phpcode/lista0.php?c=47&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="DISCOVERY", DISCOVERY TURBO
+http://clubtv.link/0125d/phpcode/lista0.php?c=80&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DISCOVERY", DISCOVERY ID
+http://clubtv.link/0125d/phpcode/lista0.php?c=18&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/2560px-Discovery_Home_%26_Health_logo.svg.png" group-title="DISCOVERY", DISCOVERY H&H
+http://clubtv.link/0125d/phpcode/lista0.php?c=46&token=tecnotokenplustv&f=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PGk2W0D/ESPN-PREMIUM.jpg" group-title="DEPORTES", ESPN PREMIUM
-https://aw1wcm92zq.fubohd.com/espnpremium/mono.m3u8?token=e22065540c082f86fe37e207f7d26b5996274c91-72-1764676950-1764658950
+****************************************************** CULTURA ********************************************************************************
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/213/93/159/history-television-channel-logo-national-geographic-history.jpg" group-title="CULTURA", HISTORY CHANNEL
+http://clubtv.link/0125d/phpcode/lista0.php?c=19&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA", NATGEO
+http://clubtv.link/0125d/phpcode/lista0.php?c=15&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Animal_planet.png" group-title="CULTURA", ANIMAL PLANET
+http://clubtv.link/0125d/phpcode/lista0.php?c=56&token=tecnotokenplustv&f=.m3u8
+
+
+***************************************************** CARICATURAS ************************************************************************************
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="CARICATURAS", DISNEY CHANNEL
+http://clubtv.link/0125d/phpcode/lista0.php?c=44&token=tecnotokenplustv&f=.m3u8
