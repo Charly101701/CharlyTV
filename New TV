@@ -102,6 +102,10 @@ http://clubtv.link/0125d/phpcode/lista0.php?c=37&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PELICULAS", DE PELICULA
 http://clubtv.link/0125d/phpcode/lista0.php?c=48&token=tecnotokenplustv&f=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="PELICULAS", HBO HD
+http://clubtv.link/0125d/phpcode/geomex.php?c=a0l2&token=tecnotokenplustv&f=.m3u8
+
+
 
 
 
@@ -146,19 +150,19 @@ https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b0a716ea-32de-4378-801f-0a3e5db9bc7e-profile_image-300x300.png" group-title="DEPORTES", INTERNETV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES", ESPN 1 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES", ESPN 1
 http://clubtv.link/0125d/phpcode/lista0.php?c=41&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2
 http://clubtv.link/0125d/phpcode/lista0.php?c=40&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3
 http://clubtv.link/0125d/phpcode/lista0.php?c=39&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX SPORTS 1 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX SPORTS 1
 http://clubtv.link/0125d/phpcode/lista0.php?c=30&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORTS 3
 http://clubtv.link/0125d/phpcode/lista0.php?c=28&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/96616e173813731.Y3JvcCw3NjIsNTk2LDM1LDA.png" group-title="DEPORTES", TDN
@@ -171,7 +175,7 @@ http://clubtv.link/0125d/phpcode/lista0.php?c=4&token=tecnotokenplustv&f=.m3u8
 
 ****************************************************** DISCOVERY ********************************************************************************
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="DISCOVERY", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vhv.rs/dpng/d/510-5100449_discovery-channel-logo-2017-png-download-logo-discovery.png" group-title="DISCOVERY", DISCOVERY CHANNEL
 http://clubtv.link/0125d/phpcode/lista0.php?c=47&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="DISCOVERY", DISCOVERY TURBO
@@ -200,3 +204,13 @@ http://clubtv.link/0125d/phpcode/lista0.php?c=56&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="CARICATURAS", DISNEY CHANNEL
 http://clubtv.link/0125d/phpcode/lista0.php?c=44&token=tecnotokenplustv&f=.m3u8
+
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="CARICATURAS", Tooncast
+http://clubtv.link/0125d/phpcode/geomex.php?c=a03k&token=tecnotokenplustv&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="BobEsponja.us@LATAM" tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="CARICATURAS", Bob Esponja 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=
+
+
