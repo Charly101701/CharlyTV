@@ -105,6 +105,25 @@ http://clubtv.link/0125d/phpcode/lista0.php?c=48&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="PELICULAS", HBO HD
 http://clubtv.link/0125d/phpcode/geomex.php?c=a0l2&token=tecnotokenplustv&f=.m3u8
 
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoiQ_vs3tYz-7-yPug63X4XMDp8ctsZKB6fE2MPGyJlSACBvmBG3Epm8&s=10",HBO
+http://104.238.205.28:8989/165849_.m3u8
+
+#EXTINF:-1 tvg-name="HBO2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8Xom4jPZpz-LX0yPLxUcuc90K3R7P1zC4w&usqp=CAU",HBO 2
+http://104.194.8.54:8989/278492_.m3u8
+
+#EXTINF:-1 tvg-id="I605.111860.schedulesdirect.org" tvg-name="warner channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
+http://104.238.205.28:8989/278453_.m3u8
+
+#EXTINF:-1 tvg-id="I435.80807.schedulesdirect.org" tvg-name="tn*t" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT
+http://199.127.63.105:8989/278519_.m3u8
+
+#EXTINF:-1 tvg-id="I642.84425.schedulesdirect.org" tvg-name="universal channel" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png",Universal Channel
+http://199.127.63.105:8989/278450_.m3u8
+
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="teleritmo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNImQ5TzBir21Mud-9xsN8_mtPGwxXErOpB-7bRi9nng-X8dsge2CDso&s=10",Bandamax
+http://104.238.205.28:8989/278603_.m3u8
+
+
 
 
 
@@ -213,6 +232,8 @@ http://clubtv.link/0125d/phpcode/geomex.php?c=a03k&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-id="BobEsponja.us@LATAM" tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="CARICATURAS", Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5c7e733b-76af-4235-bec4-a5aaf7d24aa3-profile_image-70x70.png" group-title="CARICATURAS", YuGiOh
+https://use22.playlist.ttvnw.net/v1/playlist/CvEGRO8jZEE_A6DKxpx-hDdhnOPPR2es0XKZTDfb0uZwqdPRfN-avaTn8NPqntAwA0WS2nDxtuunN14kYjQh-ts0C1rnu3C2D8ZZ-5euqGxKvXk7fxi95WJf3lpNBJT9tsZgyVEIur1Y67OejCvtWR9gD4sWsf2r-cTPRBEXlznxDMhEU5v_7QaBZ5avwrmCu692urxG74P9AebR6TWuMVmuJs1r70-MhRCb57NLXi96Iwp0Q9b4n6KVM9ekAsaw4q9NyaY1OiZpR7xjDGbThqHcGXwK7qE3HWTesBpZOpaMt9FOsBwQaeyOjfleX6g157K3thQ6p_MquDIRRjln6G1AlO_vjM1FtZQtQVvXul4hvdHWljYkSLASOK4zNdvpRyYPfWkDSe5LgQXrzVw3ziel9b8NPoI-tWlk-h3hvBmAA92YI7ZIDu2mHIHBL1ol8rP6H7YGoRah0gbFTF7DoW7dYcgadvEKEfyLOtNkE0g4quiX2xcJ6pBOJ2uvSRNzevuRWn-J_CHSA3tezpuWszVTJnK78eAndzeA2oVEEcdADzPeOPlZeI0JbV35U3mX7fPk726Ameq21jTTelZ0Y2bPQjpbTc3Ef1_mIHiyQfyCdiHm1I6_M1m47CodWw9G2K1rqzDAdwJQXZW4NLWtKmRUgeuGvajy9jf8hgJWNmu5eAXqDr7SD2wO0-U-9s9nR-qKATgtL6L_CmAjlyiHFoYGlZUDHwUC41-Cq9pctlEaVAefOy9RQDBJy4CDq88A1pB2xX_mKYFiC8PJp3ZiVVOkXcGEP_jfz6iAbp9a8xHGJboEVVyaDdHOu1fcWsKPvg942eC0zuy7p6TjkA3bfXg1Zow0Qw8i1W6IauCC0C5KohBCBOOpWgWwPXbICjOs1qGGd1bIh3QiyrOE54HiyORxCnEWXRllth-BV9gl4RAYiZylGZL5zNW11aeu31tXjta6AUIhzW2-G9PL9CEpFXxruZ4AhCXBRWPR1m3EJhQpNKjF4xJp1wlmv24XmKuihqyltpbL2d8X6Pqv3QtL4XVAjXorA0_quVwNQLWYdOM2FRcKg6VCsh-I73IQ-ypyDm7l-CYKYHZQU7y2Ug6KpsvQBIb9v3Ac4oDIIctV_4w-FRrC0lGKlA_o9jgsV1jWffRD2khwMIWF5z-wbJV8zkvBlV4aDOunnMgsvdgjLSs84yABKgl1cy1lYXN0LTIw7Q0.m3u8
 ********************************************** MOVIES *****************************************************************************************************
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/dz1PbMrkpVhURKtvv7w2Ib1iZDK.jpg" group-title="MOVIES", TRON ARES
@@ -231,5 +252,10 @@ https://s9.vimeos.net/hls2/03/00005/yjhxf602rdwx_h/index-v1-a1.m3u8?t=5IpY0R7C-V
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" group-title="MARVEL ZOMBIES", T1 E4
 https://s9.vimeos.net/hls2/03/00005/lfortcqkcknn_h/index-v1-a1.m3u8?t=jDSdxCPdJHs1wjWdgUWakU287ypO1aCFLJqfWiXpKG8&s=1764764153&e=43200&v=45059539&i=0.0&sp=0&fr=lfortcqkcknn&r=e
 
+********************************************** 24/7 ************************************************************************************************************
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/PO47HbOlemo/hqdefault.jpg?v=5dc3c355" group-title="24/7", LOS SIMPSON 24/7
+https://use23.playlist.live-video.net/v1/playlist/CoYGF4SO1_bmcAOFnaB5qr0_kemPvFW-eTrDT0dJFEaFIw7dl2LDNMXqOc3HVz0UnOhnsq8hS-6IhyGjOq6NoGkZzbqoMYgh46mDTNzFcLCWgfE6xbwgAhRMXVapn0waOQcvS8bW2tLfRC5UazjGLY7zRlc8MFm_HOWzbb6scB0CU7_VkAPOJtThb8ubrPJen29uuuZOPUpV8QDHdt--8v8qAfBObV6FG1wlrsYfniOgYdQhj4_q1X4gCOBTdOqmdOyixORgGFSVs-yWLdxRzVXjwBOL1wTdGV3_KyXqY5hKDWfgG5TojmYUqjy-ycGKNuQdXDXPzfpSp4b0NwmoosmprcedfDphJurdnxa-nahG1VSmMARLpw_4EBB-nCiFt3bcqaN-sXsdVMoV7cia-wgUGZpzk-QN8HtAWyoKzWr_BBA0hkkP2ta2EEI9vgLJEZHTF8AJjjFpvio4lrqARlbR61ypYKPIyKvSBR4rYNr8ZKnqv0JAtDo4aU1auQcaEnKGgIhzg4kn8WM2JfufJef2BzyBZC6B1eT0UzSAHDBcijdoOZU1yC2q8fRZlBtVKa0TFI8RETZsbzaG7KXNb4A9u0hi56TXuKGL2frxX0atGU4VhyHYLCJ8wyKxn3UGkP50jY9Oipv9BMvTNJFtxwoMIZdpR6qnQ4zfNzCDxsb_CuFikwqB-HMoD5lenNDkBay0i86Z8pXbNgBWZQturuHE1i_a8g4Hw-pBA8u2GlvXfXBbMtMz1Iqk-MUXj1e17hmC5vji_lVQDRkJEmMVEB203-O9RXnyP255m1AWijB6cuqEQoSVoJ-JuI7cVm_c34_346QPIlxX_Iu1AMoPdxL8HdKpg1CAe0KROTloYymsfUaiWBdAzhRNJ-SAgGjwWotLQ8t6BYJ_X4AzyzF-6NnkUGP7o7Lxes_Rkv1vGZY0-wga2HDUgfGZywLaOeeMtywH_C5U2LPeAtbgT9sRLryhWRKgsUV2WtDd_mspu77tlAmd1LxACwVUjat0G2j2yKSJBkr-FVhaGgza6LmwgTuCkXBvRZUgASoJdXMtZWFzdC0yMO0N.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Family_Guy_Logo.svg/250px-Family_Guy_Logo.svg.png" group-title="24/7", PADRE DE FAMILIA 24/7
+https://use21.playlist.live-video.net/v1/playlist/CoUGWXDZDPMWhL7jXeY6ZgYQWgPCxF7jTZ_vakXlw_Z8G8_UOMLJIRjcESINOTaIXiNLuv1Gr5-IrNYBrpeWSLS3IIq77Qr9l3yjCch5BlAXkGMrSSUMGnZBxtjyHtIgxXgPpEmqb_XxBMvX1cwdNDCYbng-RqqiBhgkDcuNqGPfSCdZDiQ-nrpLPqUttS3ti067pH_YnFN1UwuLzRMdmdRGp8rZTspFvog-fS5ZF7suibF8HnlXUwFOcqMZQQIiVtxD9QR0cCLmV61sWqH1MAeaE87CGjl83BkNFsX31DuphXmgeVfF04bYXpr9SCr_61LpR8XuLoKA83BhHpw0Z3IrUXiR7oMTspGY0VQyzp0hM0etvjo1FxtCqCifvZMRIjz-0zsMecIFEu3w1iz4r7pPO_42gr0f1iTlTvsKm_jQSLgyuCZG1xJdthKukHcAHA9HaNrV2r4R4ODePmFAyFCUB1kNUrwxB4M8R5XarEnvYgigkK0qS_pkLRJWZQQ77EYTSsaLnTIiScEvU1dIe71eH3c3gwRLUP7mkGznTtq4SEXwjt93FxZZGT7RZHZdCFrXEYdQyYN3w4iyaBQcxtVLvslFxo5923GDY49Nrvuynd2WMq6Q5z-Zbhkuodxdj5PxerbDuC7-baUcOFOJkHaAPpcVol1jXGo4mC4D5tAvhn5S9TWiVA-LYYzko4B5LFyEFkpOjJuzjfNoe_qIz4ZK-w1tRGVMHg1b4tkSlPHJxPEGT39ZH2kvbVT8e5iIuim4uZ6HZsmIwA9o7egY6KAcLo1MxHs17O7IBE0HyWvpcG4sIOCR4HmNoFeE3PDob3SnMVn7w89DTURqDtcoY_qxkxd-QBe5V2_hyHwZkNpCGZHUypLSEGew94Olwv1t1qaByuKeFNmIWqYJC0q5qOeCpEja0nNsPhzIIFWz2o3Y-Oh1ST7HVSzv52YJqep5LnhlMdrIGKLz3ovhQONriPUHkhRLjzVifum4ePJ1yheQAWtdbqEsabLW0ULRSonE9awAzT_dgQEaDDokBAIsAmv6EL8a0SABKgl1cy1lYXN0LTIw7Q0.m3u8
