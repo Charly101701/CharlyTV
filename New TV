@@ -40,8 +40,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 ********************************************************** ENTRETENIMIENTO ****************************************************
 
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="ENTRETENIMIENTO", Estrella TV
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MultimediosBajio.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="ENTRETENIMIENTO", Multimedios Bajío
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
@@ -58,11 +56,11 @@ http://clubtv.link/0125d/phpcode/lista0.php?c=3&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="ENTRETENIMIENTO", TELEMUNDO
 http://clubtv.link/0125d/phpcode/lista0.php?c=7&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="ENTRETENIMIENTO", CANAL 5
-http://clubtv.link/0125d/phpcode/lista0.php?c=52&token=tecnotokenplustv&f=.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="ENTRETENIMIENTO", LAS ESTRELLAS
 http://clubtv.link/0125d/phpcode/lista0.php?c=17&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KO0tJWPlY2s3LRkuLdaQaK8_NGJ89cqcDg&usqp=CAU" group-title="ENTRETENIMIENTO", CANAL 5 
+http://104.238.205.28:8989/278329_.m3u8
 
 
 
@@ -72,58 +70,52 @@ http://clubtv.link/0125d/phpcode/lista0.php?c=17&token=tecnotokenplustv&f=.m3u8
 
 ********************************************************* PELICULAS *****************************************************************************************
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="PELICULAS", CINECANAL
-http://clubtv.link/0125d/phpcode/lista0.php?c=50&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="PELICULAS", CINEMAX
-http://clubtv.link/0125d/phpcode/lista0.php?c=49&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/full/434-4344309_golden-plus-golden-plus-logo-png.png" group-title="PELICULAS", GOLDEN PLUS
-http://clubtv.link/0125d/phpcode/lista0.php?c=26&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://w1.pngwing.com/pngs/890/858/png-transparent-golden-logo-television-lyngsat-television-channel-design-m-text-circle.png" group-title="PELICULAS", GOLDEN PREMIER
-http://clubtv.link/0125d/phpcode/lista0.php?c=25&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.vhv.rs/dpng/d/528-5288156_img-paramount-channel-logo-hd-png-download.png" group-title="PELICULAS", PARAMOUNT CHANNEL
-http://clubtv.link/0125d/phpcode/lista0.php?c=12&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo.png" group-title="PELICULAS", SYFY
-http://clubtv.link/0125d/phpcode/lista0.php?c=9&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/772/155/png-clipart-fx-movie-channel-television-channel-television-show-amd-television-angle.png" group-title="PELICULAS", FX
-http://clubtv.link/0125d/phpcode/lista0.php?c=27&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PELICULAS", SONY
-http://clubtv.link/0125d/phpcode/lista0.php?c=11&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/2560px-Star_Channel_2020.svg.png" group-title="PELICULAS", STAR CHANNEL
-http://clubtv.link/0125d/phpcode/lista0.php?c=37&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PELICULAS", DE PELICULA
-http://clubtv.link/0125d/phpcode/lista0.php?c=48&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="PELICULAS", HBO HD
-http://clubtv.link/0125d/phpcode/geomex.php?c=a0l2&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoiQ_vs3tYz-7-yPug63X4XMDp8ctsZKB6fE2MPGyJlSACBvmBG3Epm8&s=10",HBO
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoiQ_vs3tYz-7-yPug63X4XMDp8ctsZKB6fE2MPGyJlSACBvmBG3Epm8&s=10" group-title="PELICULAS", HBO
 http://104.238.205.28:8989/165849_.m3u8
 
-#EXTINF:-1 tvg-name="HBO2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8Xom4jPZpz-LX0yPLxUcuc90K3R7P1zC4w&usqp=CAU",HBO 2
+#EXTINF:-1 tvg-name="HBO2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8Xom4jPZpz-LX0yPLxUcuc90K3R7P1zC4w&usqp=CAU" group-title="PELICULAS", HBO 2
 http://104.194.8.54:8989/278492_.m3u8
 
-#EXTINF:-1 tvg-id="I605.111860.schedulesdirect.org" tvg-name="warner channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
+#EXTINF:-1 tvg-id="I605.111860.schedulesdirect.org" tvg-name="warner channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="PELICULAS", Warner Channel
 http://104.238.205.28:8989/278453_.m3u8
 
-#EXTINF:-1 tvg-id="I435.80807.schedulesdirect.org" tvg-name="tn*t" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT
+#EXTINF:-1 tvg-id="I435.80807.schedulesdirect.org" tvg-name="tnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="PELICULAS", TNT
 http://199.127.63.105:8989/278519_.m3u8
 
-#EXTINF:-1 tvg-id="I642.84425.schedulesdirect.org" tvg-name="universal channel" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png",Universal Channel
+#EXTINF:-1 tvg-id="I642.84425.schedulesdirect.org" tvg-name="universal channel" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png" group-title="PELICULAS", Universal Channel
 http://199.127.63.105:8989/278450_.m3u8
 
-#EXTINF:-1 tvg-id="Bandamax" tvg-name="teleritmo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNImQ5TzBir21Mud-9xsN8_mtPGwxXErOpB-7bRi9nng-X8dsge2CDso&s=10",Bandamax
-http://104.238.205.28:8989/278603_.m3u8
+#EXTINF:-1 tvg-name="THE WALKING DEAD" tvg-logo="" group-title="PELICULAS", THE WALKING DEAD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
+
+#EXTINF:-1 tvg-name="INIVERSAL PREMIERE" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="PELICULAS", UNIVERSAL PREMIERE
+http://199.127.63.105:8989/278476_.m3u8
+
+#EXTINF:-1 tvg-name="GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFLa_-8vVCurp6brHD0NjI6wLPHp3xqY6FDyoikOFAuxewhSuacxHnuA&s=10" group-title="PELICULAS", GOLDEN
+http://177.234.230.206:8011/play/a0im/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PELICULAS", Sony Channel
+http://104.238.222.251:8989/278405_.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-t0a__WKc4de4bgrb3_sQYSpi02LB4i0__ZjUkFzPpiycKtmZfALYBdM&s=10" group-title="PELICULAS", Sony Movies
+http://177.234.230.206:8011/play/a0n6/index.m3u8
 
 
+#EXTINF:-1 tvg-id="CinemaxSouth.us" tvg-name="cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5LVxGGnW0PWLMDnsxEfQm1NUTfQ52WOSR_Svchb7oHnXoCPaAIcL6Tk&s=10" group-title="PELICULAS", Cinemax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
+
+
+#EXTINF:-1 tvg-name="CINECANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4-mVY2sfIXF2grqXAImmFgvU7a0ezriLqg&usqp=CAU" group-title="PELICULAS", CINECANAL
+http://104.238.205.28:8989/278462_.m3u8
+
+
+#EXTINF:-1 tvg-id="I217.49336.schedulesdirect.org" tvg-name="fx" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619" group-title="PELICULAS", FX
+http://104.238.205.28:8989/278426_.m3u8
+
+#EXTINF:-1 tvg-id="I642.84425.schedulesdirect.org" tvg-name="universal channel" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png" group-title="PELICULAS", Universal Channel
+http://199.127.63.105:8989/278450_.m3u8
 
 
 
@@ -132,6 +124,10 @@ http://104.238.205.28:8989/278603_.m3u8
 
 
 ********************************************************** MUSICA ****************************************************************
+
+#EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNImQ5TzBir21Mud-9xsN8_mtPGwxXErOpB-7bRi9nng-X8dsge2CDso&s=10" group-title="MUSICA", Bandamax
+http://104.238.205.28:8989/278603_.m3u8
+
 
 #EXTINF:-1 tvg-id="MasFM.ar" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="MUSICA", Más FM 95.9
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -169,93 +165,76 @@ https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b0a716ea-32de-4378-801f-0a3e5db9bc7e-profile_image-300x300.png" group-title="DEPORTES", INTERNETV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES", ESPN 1
-http://clubtv.link/0125d/phpcode/lista0.php?c=41&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2
-http://clubtv.link/0125d/phpcode/lista0.php?c=40&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3
-http://clubtv.link/0125d/phpcode/lista0.php?c=39&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX SPORTS 1
-http://clubtv.link/0125d/phpcode/lista0.php?c=30&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORTS 3
-http://clubtv.link/0125d/phpcode/lista0.php?c=28&token=tecnotokenplustv&f=.m3u8
+http://104.238.205.28:8989/278768_.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/96616e173813731.Y3JvcCw3NjIsNTk2LDM1LDA.png" group-title="DEPORTES", TDN
-http://clubtv.link/0125d/phpcode/lista0.php?c=8&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN 2
-http://clubtv.link/0125d/phpcode/lista0.php?c=4&token=tecnotokenplustv&f=.m3u8
-
-
-
-****************************************************** DISCOVERY ********************************************************************************
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.vhv.rs/dpng/d/510-5100449_discovery-channel-logo-2017-png-download-logo-discovery.png" group-title="DISCOVERY", DISCOVERY CHANNEL
-http://clubtv.link/0125d/phpcode/lista0.php?c=47&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="DISCOVERY", DISCOVERY TURBO
-http://clubtv.link/0125d/phpcode/lista0.php?c=80&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DISCOVERY", DISCOVERY ID
-http://clubtv.link/0125d/phpcode/lista0.php?c=18&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/2560px-Discovery_Home_%26_Health_logo.svg.png" group-title="DISCOVERY", DISCOVERY H&H
-http://clubtv.link/0125d/phpcode/lista0.php?c=46&token=tecnotokenplustv&f=.m3u8
-
-
-****************************************************** CULTURA ********************************************************************************
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/213/93/159/history-television-channel-logo-national-geographic-history.jpg" group-title="CULTURA", HISTORY CHANNEL
-http://clubtv.link/0125d/phpcode/lista0.php?c=19&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA", NATGEO
-http://clubtv.link/0125d/phpcode/lista0.php?c=15&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Animal_planet.png" group-title="CULTURA", ANIMAL PLANET
-http://clubtv.link/0125d/phpcode/lista0.php?c=56&token=tecnotokenplustv&f=.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/9b/02/7f/9b027f6ec161c26bcbdcbcc6dee50fd4.jpg" group-title="DEPORTES", ESPN PLUS
+https://doc1.crackstreamslivehd.com/espnplus1/tracks-v1a1/mono.m3u8?ip=189.238.20.108&token=7172ff5fe17bd88799077314838ac87e44083e3e-d5-1765316959-1765262959
 
 ***************************************************** CARICATURAS ************************************************************************************
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="CARICATURAS", DISNEY CHANNEL
-http://clubtv.link/0125d/phpcode/lista0.php?c=44&token=tecnotokenplustv&f=.m3u8
-
-
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="CARICATURAS", Tooncast
-http://clubtv.link/0125d/phpcode/geomex.php?c=a03k&token=tecnotokenplustv&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="BobEsponja.us@LATAM" tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="CARICATURAS", Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5c7e733b-76af-4235-bec4-a5aaf7d24aa3-profile_image-70x70.png" group-title="CARICATURAS", YuGiOh
-https://use22.playlist.ttvnw.net/v1/playlist/CvEGRO8jZEE_A6DKxpx-hDdhnOPPR2es0XKZTDfb0uZwqdPRfN-avaTn8NPqntAwA0WS2nDxtuunN14kYjQh-ts0C1rnu3C2D8ZZ-5euqGxKvXk7fxi95WJf3lpNBJT9tsZgyVEIur1Y67OejCvtWR9gD4sWsf2r-cTPRBEXlznxDMhEU5v_7QaBZ5avwrmCu692urxG74P9AebR6TWuMVmuJs1r70-MhRCb57NLXi96Iwp0Q9b4n6KVM9ekAsaw4q9NyaY1OiZpR7xjDGbThqHcGXwK7qE3HWTesBpZOpaMt9FOsBwQaeyOjfleX6g157K3thQ6p_MquDIRRjln6G1AlO_vjM1FtZQtQVvXul4hvdHWljYkSLASOK4zNdvpRyYPfWkDSe5LgQXrzVw3ziel9b8NPoI-tWlk-h3hvBmAA92YI7ZIDu2mHIHBL1ol8rP6H7YGoRah0gbFTF7DoW7dYcgadvEKEfyLOtNkE0g4quiX2xcJ6pBOJ2uvSRNzevuRWn-J_CHSA3tezpuWszVTJnK78eAndzeA2oVEEcdADzPeOPlZeI0JbV35U3mX7fPk726Ameq21jTTelZ0Y2bPQjpbTc3Ef1_mIHiyQfyCdiHm1I6_M1m47CodWw9G2K1rqzDAdwJQXZW4NLWtKmRUgeuGvajy9jf8hgJWNmu5eAXqDr7SD2wO0-U-9s9nR-qKATgtL6L_CmAjlyiHFoYGlZUDHwUC41-Cq9pctlEaVAefOy9RQDBJy4CDq88A1pB2xX_mKYFiC8PJp3ZiVVOkXcGEP_jfz6iAbp9a8xHGJboEVVyaDdHOu1fcWsKPvg942eC0zuy7p6TjkA3bfXg1Zow0Qw8i1W6IauCC0C5KohBCBOOpWgWwPXbICjOs1qGGd1bIh3QiyrOE54HiyORxCnEWXRllth-BV9gl4RAYiZylGZL5zNW11aeu31tXjta6AUIhzW2-G9PL9CEpFXxruZ4AhCXBRWPR1m3EJhQpNKjF4xJp1wlmv24XmKuihqyltpbL2d8X6Pqv3QtL4XVAjXorA0_quVwNQLWYdOM2FRcKg6VCsh-I73IQ-ypyDm7l-CYKYHZQU7y2Ug6KpsvQBIb9v3Ac4oDIIctV_4w-FRrC0lGKlA_o9jgsV1jWffRD2khwMIWF5z-wbJV8zkvBlV4aDOunnMgsvdgjLSs84yABKgl1cy1lYXN0LTIw7Q0.m3u8
-********************************************** MOVIES *****************************************************************************************************
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfCpSXwASb1RFLRh8jq5k4oc0b3uKhkW-VO8anQw0B-dMhh2GPo3e22twJ&s=10" group-title="CARICATURAS", cartoons
+http://104.238.205.28:8989/278526_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/dz1PbMrkpVhURKtvv7w2Ib1iZDK.jpg" group-title="MOVIES", TRON ARES
-https://s10.vimeos.net/hls2/03/00007/b038pvfc3x1n_h/index-v1-a1.m3u8?t=HEPNgYaByxq-RgBdBULSke1SDWtSulBwAjozLUykIZo&s=1764763381&e=43200&v=45057077&i=0.0&sp=0&fr=b038pvfc3x1n&r=e
+*********************************************** MOVIE *******************************************************************************************************
 
-********************************************** MARVEL ZOMBIES *************************************************************************************************
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" group-title="MARVEL ZOMBIES", T1 E1
-https://s9.vimeos.net/hls2/03/00005/69m90asp7hvy_h/index-v1-a1.m3u8?t=SEKY_3BE6UXZobnNGAK09dIpST3REFAiOO5SJDvQEHQ&s=1764763882&e=43200&v=45058659&i=0.0&sp=0&fr=69m90asp7hvy&r=e
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dz1PbMrkpVhURKtvv7w2Ib1iZDK.jpg" group-title="CARICATURAS", TRON ARES
+https://be4235.rcr32.ams02.i8yz83pn.com/hls2/07/10409/wyg0hvgheu22_x/index-v1-a1.m3u8?t=NvcN62gqB6tdUPmhP8HHkWWKHs9fVHLV0WtTc22UKPU&s=1765272943&e=10800&f=52047977&srv=1050&asn=8151&sp=5500&p=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" group-title="MARVEL ZOMBIES", T1 E2
-https://s9.vimeos.net/hls2/03/00005/6tuvg1fa0x7c_h/index-v1-a1.m3u8?t=knYgsZLQiFLWCpJ7DuJQyK4SUAYKtvmErGxDdv7K5C8&s=1764763995&e=43200&v=45059020&i=0.0&sp=0&fr=6tuvg1fa0x7c&r=e
+****************************************************** SERIE SNOOPY *******************************************************************************************
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" group-title="MARVEL ZOMBIES", T1 E3
-https://s9.vimeos.net/hls2/03/00005/yjhxf602rdwx_h/index-v1-a1.m3u8?t=5IpY0R7C-VVI2GW5PBVvwIsB6A1L7yLnFPXcXwvIas4&s=1764764077&e=43200&v=45059282&i=0.0&sp=0&fr=yjhxf602rdwx&r=e
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E1 T1
+https://s11.vimeos.net/hls2/03/00004/rlumhma1uc9v_h/index-v1-a1.m3u8?t=JVokbCwrMrfuDSJvSihcFvQmwir15R7Lhk-3_26UH5E&s=1765275851&e=43200&v=51018482&i=0.0&sp=0&fr=rlumhma1uc9v&r=e
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" group-title="MARVEL ZOMBIES", T1 E4
-https://s9.vimeos.net/hls2/03/00005/lfortcqkcknn_h/index-v1-a1.m3u8?t=jDSdxCPdJHs1wjWdgUWakU287ypO1aCFLJqfWiXpKG8&s=1764764153&e=43200&v=45059539&i=0.0&sp=0&fr=lfortcqkcknn&r=e
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E2 T1
+https://s7.vimeos.net/hls2/02/00004/b1l61fwexami_h/index-v1-a1.m3u8?t=JULABfhHKpvaDJHfhbAUHci04vGKNQVbdjkc85hB_xY&s=1765276117&e=43200&v=51019098&i=0.0&sp=0&fr=b1l61fwexami&r=e
 
-********************************************** 24/7 ************************************************************************************************************
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/PO47HbOlemo/hqdefault.jpg?v=5dc3c355" group-title="24/7", LOS SIMPSON 24/7
-https://use23.playlist.live-video.net/v1/playlist/CoYGF4SO1_bmcAOFnaB5qr0_kemPvFW-eTrDT0dJFEaFIw7dl2LDNMXqOc3HVz0UnOhnsq8hS-6IhyGjOq6NoGkZzbqoMYgh46mDTNzFcLCWgfE6xbwgAhRMXVapn0waOQcvS8bW2tLfRC5UazjGLY7zRlc8MFm_HOWzbb6scB0CU7_VkAPOJtThb8ubrPJen29uuuZOPUpV8QDHdt--8v8qAfBObV6FG1wlrsYfniOgYdQhj4_q1X4gCOBTdOqmdOyixORgGFSVs-yWLdxRzVXjwBOL1wTdGV3_KyXqY5hKDWfgG5TojmYUqjy-ycGKNuQdXDXPzfpSp4b0NwmoosmprcedfDphJurdnxa-nahG1VSmMARLpw_4EBB-nCiFt3bcqaN-sXsdVMoV7cia-wgUGZpzk-QN8HtAWyoKzWr_BBA0hkkP2ta2EEI9vgLJEZHTF8AJjjFpvio4lrqARlbR61ypYKPIyKvSBR4rYNr8ZKnqv0JAtDo4aU1auQcaEnKGgIhzg4kn8WM2JfufJef2BzyBZC6B1eT0UzSAHDBcijdoOZU1yC2q8fRZlBtVKa0TFI8RETZsbzaG7KXNb4A9u0hi56TXuKGL2frxX0atGU4VhyHYLCJ8wyKxn3UGkP50jY9Oipv9BMvTNJFtxwoMIZdpR6qnQ4zfNzCDxsb_CuFikwqB-HMoD5lenNDkBay0i86Z8pXbNgBWZQturuHE1i_a8g4Hw-pBA8u2GlvXfXBbMtMz1Iqk-MUXj1e17hmC5vji_lVQDRkJEmMVEB203-O9RXnyP255m1AWijB6cuqEQoSVoJ-JuI7cVm_c34_346QPIlxX_Iu1AMoPdxL8HdKpg1CAe0KROTloYymsfUaiWBdAzhRNJ-SAgGjwWotLQ8t6BYJ_X4AzyzF-6NnkUGP7o7Lxes_Rkv1vGZY0-wga2HDUgfGZywLaOeeMtywH_C5U2LPeAtbgT9sRLryhWRKgsUV2WtDd_mspu77tlAmd1LxACwVUjat0G2j2yKSJBkr-FVhaGgza6LmwgTuCkXBvRZUgASoJdXMtZWFzdC0yMO0N.m3u8
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E3 T1
+https://s4.vimeos.net/hls2/01/00004/ehbosyzojwud_h/index-v1-a1.m3u8?t=D-AQ6tBIl90Ysb2R4vrIAgumj6YQBHah1l9T3SeqU7E&s=1765276319&e=43200&v=51019502&i=0.0&sp=0&fr=ehbosyzojwud&r=e
+
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E4 T1
+https://s3.vimeos.net/hls2/02/00004/86ggo3wmhyry_h/index-v1-a1.m3u8?t=5cgc0KtHQj53Rn7ShlaTIMHC5bAt1P3Yht504JJmzgs&s=1765276511&e=43200&v=51019887&i=0.0&sp=0&fr=86ggo3wmhyry&r=e
+
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E5 T1
+https://s3.vimeos.net/hls2/02/00004/d56l46l63jtb_h/index-v1-a1.m3u8?t=Sn0zfpxtMFjEbQDyjfw8NANLyvhkBTBpsgwSgFHXzB0&s=1765277056&e=43200&v=51021032&i=0.0&sp=0&fr=d56l46l63jtb&r=e
+
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E6 T1
+https://s3.vimeos.net/hls2/02/00004/9n74gf57gp97_h/index-v1-a2.m3u8?t=wUwkCXQcNtYLUt51Af8i2vb02x4M1aY6Uo_p1BoRx7I&s=1765277124&e=43200&v=51021175&i=0.0&sp=0&fr=9n74gf57gp97&r=e
+
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E7 T1
+https://s11.vimeos.net/hls2/03/00004/k272i9pde3t3_h/index-v1-a1.m3u8?t=_snKd3PQlPfi4eyH7lzBc43lq6bsPewI_rNAbxWU_jU&s=1765277261&e=43200&v=51021277&i=0.0&sp=0&fr=k272i9pde3t3&r=e
+
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E8 T1
+https://s11.vimeos.net/hls2/03/00004/rlumhma1uc9v_h/index-v1-a1.m3u8?t=DeqwzBg4JChD8eysG6qOp8Ba_h-bd5e9IU9vzCpGey4&s=1765277297&e=43200&v=51018482&i=0.0&sp=0&fr=rlumhma1uc9v&r=e
+
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E9 T1
+https://s3.vimeos.net/hls2/02/00004/3meoqx5xdp7x_h/index-v1-a1.m3u8?t=_Umf8x-xEvxv8agy3Ud7RsA5AYn9oDEwG0SuxME2DLA&s=1765277338&e=43200&v=51021633&i=0.0&sp=0&fr=3meoqx5xdp7x&r=e
+
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E10 T1
+https://s3.vimeos.net/hls2/02/00004/2ahsjtr9242r_h/index-v1-a2.m3u8?t=T7yYXRmGGIZHPZwr9VpwiUD7FpjdO2lGuvr9Y5cUY_s&s=1765277420&e=43200&v=51021831&i=0.0&sp=0&fr=2ahsjtr9242r&r=e
+
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E11 T1
+https://s3.vimeos.net/hls2/02/00004/16u18e1vi3ao_h/index-v1-a1.m3u8?t=1Y6PAfdRUIkEQMUYtEL1smDSkCuFepXs3riyfqsEBS8&s=1765277465&e=43200&v=51021934&i=0.0&sp=0&fr=16u18e1vi3ao&r=e
+
+#EXTINF:-1 tvg-logo="https://compucalitv.tv/wp-content/uploads/thumbs/191ac1fb8b8b6f38173bcbc0106b1e46_hd.webp" group-title="SNOOPY EL ASTRONAUTA", E12 T1
+https://s3.vimeos.net/hls2/02/00004/wh6lr5rotilm_h/index-v1-a1.m3u8?t=LUEgFqK-WwbKGmoWgl-vXDeZYC7VAtBFo4ICM6BBxsE&s=1765277568&e=43200&v=51022021&i=0.0&sp=0&fr=wh6lr5rotilm&r=e
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Family_Guy_Logo.svg/250px-Family_Guy_Logo.svg.png" group-title="24/7", PADRE DE FAMILIA 24/7
-https://use21.playlist.live-video.net/v1/playlist/CoUGWXDZDPMWhL7jXeY6ZgYQWgPCxF7jTZ_vakXlw_Z8G8_UOMLJIRjcESINOTaIXiNLuv1Gr5-IrNYBrpeWSLS3IIq77Qr9l3yjCch5BlAXkGMrSSUMGnZBxtjyHtIgxXgPpEmqb_XxBMvX1cwdNDCYbng-RqqiBhgkDcuNqGPfSCdZDiQ-nrpLPqUttS3ti067pH_YnFN1UwuLzRMdmdRGp8rZTspFvog-fS5ZF7suibF8HnlXUwFOcqMZQQIiVtxD9QR0cCLmV61sWqH1MAeaE87CGjl83BkNFsX31DuphXmgeVfF04bYXpr9SCr_61LpR8XuLoKA83BhHpw0Z3IrUXiR7oMTspGY0VQyzp0hM0etvjo1FxtCqCifvZMRIjz-0zsMecIFEu3w1iz4r7pPO_42gr0f1iTlTvsKm_jQSLgyuCZG1xJdthKukHcAHA9HaNrV2r4R4ODePmFAyFCUB1kNUrwxB4M8R5XarEnvYgigkK0qS_pkLRJWZQQ77EYTSsaLnTIiScEvU1dIe71eH3c3gwRLUP7mkGznTtq4SEXwjt93FxZZGT7RZHZdCFrXEYdQyYN3w4iyaBQcxtVLvslFxo5923GDY49Nrvuynd2WMq6Q5z-Zbhkuodxdj5PxerbDuC7-baUcOFOJkHaAPpcVol1jXGo4mC4D5tAvhn5S9TWiVA-LYYzko4B5LFyEFkpOjJuzjfNoe_qIz4ZK-w1tRGVMHg1b4tkSlPHJxPEGT39ZH2kvbVT8e5iIuim4uZ6HZsmIwA9o7egY6KAcLo1MxHs17O7IBE0HyWvpcG4sIOCR4HmNoFeE3PDob3SnMVn7w89DTURqDtcoY_qxkxd-QBe5V2_hyHwZkNpCGZHUypLSEGew94Olwv1t1qaByuKeFNmIWqYJC0q5qOeCpEja0nNsPhzIIFWz2o3Y-Oh1ST7HVSzv52YJqep5LnhlMdrIGKLz3ovhQONriPUHkhRLjzVifum4ePJ1yheQAWtdbqEsabLW0ULRSonE9awAzT_dgQEaDDokBAIsAmv6EL8a0SABKgl1cy1lYXN0LTIw7Q0.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
