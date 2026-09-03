@@ -79,69 +79,69 @@ http://190.83.2.182:8090/ESPN3/index.m3u8
 
 
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="Documental",Discovery Channel
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a036&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,Discovery Home & Health
+#EXTINF:-1 group-title="Documental",Discovery Home & Health
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03u&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="Deportes",ESPN
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03a&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="Deportes",ESPN 2 HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="Deportes",ESPN 3
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a02d&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 group-title="Deportes",ESPN 4
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a057&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,ESPN 5
+#EXTINF:-1 group-title="Deportes",ESPN 5
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a058&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,ESPN 6 HD
+#EXTINF:-1 group-title="Deportes",ESPN 6 HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a055&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="Peliculas",FX
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="Peliculas",FX HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,GOLDE EDGE
+#EXTINF:-1 group-title="Peliculas",GOLDE EDGE
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,Golden
+#EXTINF:-1 group-title="Peliculas",Golden
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1 group-title="Peliculas",HBO Family HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="Peliculas",HBO HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,HBO Plus HD
+#EXTINF:-1 group-title="Peliculas",HBO Plus HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00n&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,HBO XTREME
+#EXTINF:-1 group-title="Peliculas",HBO XTREME
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,HBO2 HD
+#EXTINF:-1 group-title="Peliculas",HBO2 HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,Sony Movies HD
+#EXTINF:-1 group-title="Peliculas",Sony Movies HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 group-title="Peliculas",Studio Universal
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a045&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="Peliculas",TNT HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0r9&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 group-title="Peliculas",TNT Series HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rs&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,UNIVERSAL COMEDY HD
+#EXTINF:-1 group-title="Peliculas",UNIVERSAL COMEDY HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,UNIVERSAL CRIME HD
+#EXTINF:-1 group-title="Peliculas",UNIVERSAL CRIME HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rj&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE HD
+#EXTINF:-1 group-title="Peliculas",UNIVERSAL PREMIERE HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rg&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 group-title="Peliculas",Universal
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a040&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,Univision HD
+#EXTINF:-1 group-title="Entretenimiento",Univision HD
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,Warner
+#EXTINF:-1 group-title="Peliculas",Warner
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,BANDAMAX
+#EXTINF:-1 group-title="Musica",BANDAMAX
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a04y&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,BANDAMAX
+#EXTINF:-1 Musica,BANDAMAX
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a051&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1,CANAL 5 MEXICO
+#EXTINF:-1 group-title="Entretenimiento",CANAL 5 MEXICO
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a067&token=tecnotokenplustv230516F&f=.m3u8
 
 
