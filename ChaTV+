@@ -1,184 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E Latin America (1080p)
+#EXTINF:-1, A&E Latin America (1080p)
 http://138.121.15.230:9002/A&E/index.m3u8
-
-#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Noticias",ADN 40 (720p)
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1 tvg-id="ADNTV.cl@SD" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="Noticias",ADN TV (720p)
+#EXTINF:-1, ADN TV (720p)
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Peliculas",Cinecanal (1080p)
-http://15.204.246.24:8080/CinecanalHD/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinecanal.us@Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Peliculas",Cinecanal Pacific (1080p)
+#EXTINF:-1, Cinecanal Pacific (1080p)
 http://138.121.15.230:9002/CINECANAL/index.m3u8
-
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central Latin America (1080p)
-http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
-
-#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Entretenimiento",Comedy Central Pluto TV
+#EXTINF:-1, Comedy Central Pluto TV
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Caricaturas",Disney Channel Latin America Mexico (720p)
-
+#EXTINF:-1, Disney Channel Latin America Mexico (720p)
 http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Caricaturas",Disney XD (720p)
+#EXTINF:-1, Disney XD (720p)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Entretenimiento",Distrito Comedia (1080p)
+#EXTINF:-1, Distrito Comedia (1080p)
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports
+#EXTINF:-1, DSports
 http://138.121.113.175:8000/play/a0cj/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Deportes",Fox Deportes (720p)
+#EXTINF:-1, Fox Deportes (720p)
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-
-#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Entretenimiento",Imagen TV (1080p)
+#EXTINF:-1, Imagen TV (1080p)
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Entretenimiento",Las Estrellas (1080p)
+#EXTINF:-1, Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="LasTortugasNinja.us@LatAm" tvg-logo="https://i.imgur.com/urJdNc9.png" group-title="Caricaturas",Las Tortugas Ninja (720p)
+#EXTINF:-1, Las Tortugas Ninja (720p)
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-
-#EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Peliculas",Mega Cine TV (1080p)
+#EXTINF:-1, Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MLBStrikeZone.us@SD" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="Deportes",MLB Strike Zone (720p)
+#EXTINF:-1, MLB Strike Zone (720p)
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documental",National Geographic (1080p)
+#EXTINF:-1, National Geographic (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
-
-#EXTINF:-1 tvg-id="StarChannel.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel (720p)
+#EXTINF:-1, Star Channel (720p)
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Entretenimiento",TNT Novelas (1080p)
+#EXTINF:-1, TNT Novelas (1080p)
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
-
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (1080p)
+#EXTINF:-1, TyC Sports (1080p)
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
-
-
-#EXTINF:-1 group-title="Entretenimiento",Teleritmo 
+#EXTINF:-1, Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="Entretenimiento", AZTECA 7
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a064&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Adult Swim
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a04n&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", Animal Planet
+#EXTINF:-1, Animal Planet
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a037&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Musica", BANDAMAX
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a04y&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Musica", BANDAMAX
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a051&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", CANAL 5 MEXICO
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a067&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Caricaturas", Cartoon Network
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", Discovery Channel
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a036&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", Discovery Home & Health
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03u&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", Discovery ID HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rx&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Caricaturas", Discovery Kids
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03p&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", Discovery Turbo
+#EXTINF:-1, Discovery Turbo
 http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03t&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", Discovery World HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0ru&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Caricaturas", Disney
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03r&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Caricaturas", Disney JR
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a012&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", E!
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a033&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", E! Entertairment HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0qu&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03a&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 2 HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 3
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a02d&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 4
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a057&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 5
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a058&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 6 HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a055&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", GOLDE EDGE
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Golden
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", HBO Family HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", HBO HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", HBO Plus HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00n&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", HBO XTREME
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", HBO2 HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", History Channel
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a038&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", History HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a01o&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", Home & Health HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rb&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", Nat Geo HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rq&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Documental", National Geographic
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a01b&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", STAR CHANNEL
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Studio Universal
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a045&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TELE FLIX
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a04r&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TLC
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a039&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TNT HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0r9&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", TNT Series HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rs&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", Telemundo HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Caricaturas", Tooncast
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a02z&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", UNIVERSAL COMEDY HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", UNIVERSAL CRIME HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rj&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", UNIVERSAL PREMIERE HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rg&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Universal
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a040&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento", Univision HD
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="Peliculas", Warner
-http://tecnotv.club/embz/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 group-title="Noticias", A Más 
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="Noticias", ADN 40 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Noticias", AMX Noticias
+#EXTINF:-1, AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 group-title="Noticias", Antena TV
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1 group-title="Noticias", TeleFórmula 
+#EXTINF:-1, TeleFórmula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 group-title="Noticias", Milenio Televisión Noroeste 
+#EXTINF:-1, Milenio Televisión Noroeste
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-
-
-
-
-
