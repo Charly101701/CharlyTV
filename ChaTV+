@@ -74,6 +74,77 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 
 http://190.83.2.182:8090/ESPN3/index.m3u8
 
+
+
+
+
+
+#EXTINF:-1,Discovery Channel
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a036&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03u&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 
 http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1,ESPN
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a03a&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,ESPN 3
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a02d&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,ESPN 4
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a057&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,ESPN 5
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a058&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a055&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,FX
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,FX HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,GOLDE EDGE
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,Golden
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,HBO Family HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,HBO HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,HBO Plus HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,HBO XTREME
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,HBO2 HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,Sony Movies HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,Studio Universal
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a045&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,TNT HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0r9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,TNT Series HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rs&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,Universal
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a040&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,Univision HD
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a0rw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,Warner
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,BANDAMAX
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a04y&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,BANDAMAX
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a051&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,CANAL 5
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a056&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1,CANAL 5 MEXICO
+http://tecnotv.club/embz/phpcode/ssiptv.php?c=a067&token=tecnotokenplustv230516F&f=.m3u8
+
+
 
