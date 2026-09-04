@@ -79,37 +79,37 @@ http://181.78.197.59:8000/play/a07n/index.m3u8
 
 #EXTINF-1 group-title="Deportes",A7 TV 
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN (1080p)
+#EXTINF:-1 group-title="Deportes",ESPN 
 http://190.83.2.182:8090/ESPN/index.m3u8
-#EXTINF-1 group-title="Deportes",ESPN (1080p)
+#EXTINF-1 group-title="Deportes",ESPN 
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF-1 group-title="Deportes",ESPN 3 (1080p)
+#EXTINF-1 group-title="Deportes",ESPN 3 
 http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF-1 group-title="Deportes",ESPN 3 (720p)
+#EXTINF-1 group-title="Deportes",ESPN 3 
 http://181.78.197.59:8000/play/a081/index.m3u8
-#EXTINF-1 group-title="Deportes",ESPN 4 (1080p)
+#EXTINF-1 group-title="Deportes",ESPN 4 
 http://181.78.197.59:8000/play/a07n/index.m3u8
 
 
-#EXTINF-1,Star Channel Latin America (1080p)
+#EXTINF-1 group-title="Entretenimiento",Star Channel Latin America 
 http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
-#EXTINF-1,Star Channel Latin America (1080p)
+#EXTINF-1 group-title="Entretenimiento",Star Channel Latin America 
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
-#EXTINF-1 ,Star Channel Latin America (720p)
+#EXTINF-1 group-title="Entretenimiento",Star Channel Latin America 
 http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
-#EXTINF-1 ,Cine Sony (720p)
+#EXTINF-1 group-title="Entretenimiento",Cine Sony
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
-#EXTINF-1 ,Cine Sony (720p)
+#EXTINF-1 group-title="Entretenimiento",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF-1 ,Fox Deportes (720p)
+#EXTINF-1 group-title="Deportes",Fox Deportes 
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF-1 ,Fox Deportes (720p)
+#EXTINF-1 group-title="Deportes",Fox Deportes 
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
-#EXTINF-1 ,TeleFormula
+#EXTINF-1 group-title="Noticias",TeleFormula
 https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
-#EXTINF-1 ,TeleFormula (720p)
+#EXTINF-1 group-title="Noticias",TeleFormula 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 
