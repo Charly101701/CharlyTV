@@ -146,7 +146,39 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 
 #EXTINF-1 group-title="Deportes",espn4 la liga
-https://s1.envivoslatam99.sbs/espn4/tracks-v1a1/mono.m3u8?ip=189.238.254.74&token=6aab230dabf416b6f123899c1abc918d14c46c14-3e-1789880086-1789826086
+http://190.60.52.28:5001/play/a094/index.m3u8
 
+#EXTINF-1 group-title="Deportes", ESPN 5 (N)
+http://190.60.52.28:5001/play/a0dn/index.m3u8
+#EXTINF-1 group-title="Deportes", ESPN 5HD (N2)
+http://190.60.52.28:5001/play/a09q/index.m3u8
+#EXTINF-1 group-title="Deportes", ESPN 6 (N)
+http://190.60.52.28:5001/play/a0de/index.m3u8
+#EXTINF-1 group-title="Deportes" , ESPN 6HD (N2)
+http://190.60.52.28:5001/play/a095/index.m3u8
+#EXTINF-1 group-title="Deportes", ESPN 7 (N)
+http://190.60.52.28:5001/play/a0dd/index.m3u8
+#EXTINF-1 group-title="Deportes", ESPN 7HD (N2)
+http://190.60.52.28:5001/play/a0ak/index.m3u8
+#EXTINF-1 group-title="Deportes" , ESPN HD (N)
+http://190.60.52.28:5001/play/a0ar/index.m3u8
+#EXTINF-1 group-title="Deportes", ESPN Premium HD (N1)
+http://190.60.52.28:5001/play/a09d/index.m3u8
+#EXTINF-1 group-title="Deportes", ESPN Premium HD (N)
+http://190.60.52.28:5001/play/a0fz/index.m3u8
+#EXTINF-1 group-title="Deportes" , ESPN
+http://181.78.79.131:8000/play/a0s7
+#EXTINF-1 group-title="Deportes" , ESPN 2 HD
+http://181.78.79.131:8000/play/a0qj
+#EXTINF-1 group-title="Deportes", ESPN 3 HD
+http://181.78.79.131:8000/play/a0s6
+#EXTINF-1 group-title="Deportes" , ESPN 4 HD
+http://181.78.79.131:8000/play/a0s9
+#EXTINF-1 group-title="Deportes", ESPN 5 HD
+http://181.78.79.131:8000/play/a0s5
+#EXTINF-1 group-title="Deportes" , ESPN 6 HD
+http://181.78.79.131:8000/play/a0s3
+#EXTINF-1 group-title="Deportes" , ESPN 7 HD
+http://181.78.79.131:8000/play/a0s8
 
 
