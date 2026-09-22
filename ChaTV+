@@ -1,31 +1,47 @@
 #EXTM3U
+----------------------------------------------------------------ENTRETENIMIENTO---------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="Entretenimiento", A&E Latin America 
 http://138.121.15.230:9002/A&E/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="ENTRETENIMIENTO", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Imagen TV 
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Las Estrellas 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF-1 group-title="Entretenimiento",Star Channel Latin America 
+http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
+
+#EXTINF-1 group-title="Entretenimiento",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF-1 group-title="Entretenimiento",Golden Premier
+https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD
+
+#EXTINF:-1 group-title="Entretenimiento", Adult Swim
+http://181.78.79.131:8000/play/a0pk
+
+#EXTINF:-1 group-title="Entretenimiento", Comedy Central HD
+http://181.78.79.131:8000/play/a0mu
+
+#EXTINF:-1 group-title="Entretenimiento", HGTV
+http://181.78.79.131:8000/play/a0pf
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="Entretenimiento", AZTECA 7 
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 
-
-
-
-
-
-
-
-
+-----------------------------------------------------------CARICATURAS----------------------------------------------------------------------------------------------
 
 #EXTINF-1 group-title="Caricaturas",Disney Channel Latin America Mexico 
 http://45.166.93.156:9999/play/a0f3/index.m3u8
-
-#EXTINF:-1 group-title="Noticias", ADN TV 
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Cinecanal Pacific 
-http://138.121.15.230:9002/CINECANAL/index.m3u8
-
-#EXTINF:-1 group-title="Comedia", Comedy Central Pluto TV
-https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 
 #EXTINF:-1 group-title="Caricaturas", Disney Channel Latin America Mexico 
 http://45.166.93.156:9999/play/a0f3/index.m3u8
@@ -33,17 +49,17 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 group-title="Caricaturas", Disney XD 
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 group-title="Comedia", Distrito Comedia
-http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 group-title="Caricatura", Las Tortugas Ninja
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 
-#EXTINF-1 group-title="Deportes",Azteca Deportes Network 
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="Caricaturas", Tooncast
+http://181.78.79.131:8000/play/a0pe
 
-#EXTINF-1 group-title="Documental",National Geographic 
-http://138.121.15.230:9002/NAT-GEO/index.m3u8
+----------------------------------------------------------NOTICIAS-----------------------------------------------------------------------------------------------------
 
-#EXTINF-1 group-title="Musica",Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="Noticias", ADN TV 
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="Noticias", A MÁS 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -63,69 +79,106 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NOTICIAS", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="GENERAL", Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="ENTRETENIMIENTO", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", AZTECA 7 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Deportes", Fox Deportes 
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-
-#EXTINF:-1 group-title="Entretenimiento", Imagen TV 
-https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-
-#EXTINF:-1 group-title="Entretenimiento", Las Estrellas 
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 group-title="Caricatura", Las Tortugas Ninja
-https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Mega Cine TV 
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes", MLB Strike Zone 
-http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-
-#EXTINF:-1 group-title="Documental", National Geographic 
-http://138.121.15.230:9002/NAT-GEO/index.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Star Channel 
-http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-
-#EXTINF:-1 group-title="Novelas", TNT Novelas 
-http://190.93.224.42/TNT-NOVELAS/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Musica", Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
 #EXTINF:-1 group-title="Noticias", AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 group-title="Noticias", Milenio Televisión Noroeste
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
+#EXTINF-1 group-title="Noticias",TeleFormula
+https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
+
+#EXTINF-1 group-title="Noticias",TeleFormula 
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 group-title="Noticias", AXN HD
+http://181.78.79.131:8000/play/a0q0
+
+#EXTINF:-1 group-title="Noticias", CNN 
+http://181.78.79.131:8000/play/a0p3
+
+----------------------------------------------------------PELICULAS----------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Peliculas", Cinecanal Pacific 
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Mega Cine TV 
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Star Channel 
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Cinecanal
+http://181.78.79.131:8000/play/a0pp
+
+#EXTINF:-1 group-title="Peliculas", De Pelicula
+http://181.78.79.131:8000/play/a0qb
+
+#EXTINF:-1 group-title="Peliculas", HBO
+http://181.78.79.131:8000/play/a0qd
+
+#EXTINF:-1 group-title="Peliculas", UNIVERSAL CHANNEL HD
+http://181.78.79.131:8000/play/a0mw
+
+#EXTINF:-1 group-title="Peliculas", Warner
+http://181.78.79.131:8000/play/a0sz
+
+#EXTINF:-1 group-title="Peluculas", Warner TV HD
+http://181.78.79.131:8000/play/a0pz
+
+#EXTINF:-1 group-title="Peliculas", HBO Xtreme HD
+http://181.78.79.131:8000/play/a0qy
+
+-----------------------------------------------------------DOCUMENTALES------------------------------------------------------------------------------------------------
+
+#EXTINF-1 group-title="Documental",National Geographic 
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+
+#EXTINF:-1 group-title="Documental", National Geographic 
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+
+#EXTINF:-1 group-title="Documental", Animal Planet
+http://181.78.79.131:8000/play/a0po
+
+#EXTINF:-1 group-title="Documental", Discovery Science
+http://181.78.79.131:8000/play/a0pb
+
+#EXTINF:-1 group-title="Documental", Discovery Turbo
+http://181.78.79.131:8000/play/a0p8
+
+#EXTINF:-1 group-title="Documental", Discovery World HD
+http://181.78.79.131:8000/play/a0n8
+
+#EXTINF:-1 group-title="Documental", History Channel
+http://181.78.79.131:8000/play/a0st
+
+#EXTINF:-1 group-title="Documental", TLC
+http://181.78.79.131:8000/play/a0t3
+
+-----------------------------------------------------------COMEDIA-----------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Comedia", Comedy Central Pluto TV
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+
+#EXTINF:-1 group-title="Comedia", Distrito Comedia
+http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+
+--------------------------------------------------------DEPORTES-------------------------------------------------------------------------------------------------------
+
+#EXTINF-1 group-title="Deportes",Azteca Deportes Network 
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", Fox Deportes 
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", MLB Strike Zone 
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
-
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 
 http://181.78.197.59:8000/play/a07n/index.m3u8
-
-
-
-
-
-
 
 #EXTINF-1 group-title="Deportes",A7 TV 
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
@@ -135,104 +188,99 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 
 #EXTINF-1 group-title="Deportes",ESPN 3 
 http://181.78.197.59:8000/play/a081/index.m3u8
+
 #EXTINF-1 group-title="Deportes",ESPN 4 
 http://181.78.197.59:8000/play/a07n/index.m3u8
 
-
-#EXTINF-1 group-title="Entretenimiento",Star Channel Latin America 
-http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
-
-#EXTINF-1 group-title="Entretenimiento",Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
 #EXTINF-1 group-title="Deportes",Fox Deportes 
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
 #EXTINF-1 group-title="Deportes",Fox Deportes 
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF-1 group-title="Noticias",TeleFormula
-https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
-#EXTINF-1 group-title="Noticias",TeleFormula 
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF-1 group-title="Deportes",ESPN Deportes HD (720p)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
-
-
-
-
-#EXTINF-1 group-title="Entretenimiento",Golden Premier
-https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD
-
-#EXTINF:-1 group-title="Noticias", AXN HD
-http://181.78.79.131:8000/play/a0q0
-#EXTINF:-1 group-title="Entretenimiento", Adult Swim
-http://181.78.79.131:8000/play/a0pk
-#EXTINF:-1 group-title="Documental", Animal Planet
-http://181.78.79.131:8000/play/a0po
-#EXTINF:-1 group-title="Noticias", CNN EspaÃ±ol
-http://181.78.79.131:8000/play/a0p3
-#EXTINF:-1 group-title="Peliculas", Cinecanal
-http://181.78.79.131:8000/play/a0pp
-#EXTINF:-1 group-title="Entretenimiento", Comedy Central HD
-http://181.78.79.131:8000/play/a0mu
-#EXTINF:-1 group-title="Peliculas", De Pelicula
-http://181.78.79.131:8000/play/a0qb
-#EXTINF:-1 group-title="Documental", Discovery Science
-http://181.78.79.131:8000/play/a0pb
-#EXTINF:-1 group-title="Documental", Discovery Turbo
-http://181.78.79.131:8000/play/a0p8
-#EXTINF:-1 group-title="Documental", Discovery World HD
-http://181.78.79.131:8000/play/a0n8
 #EXTINF:-1 group-title="Deportes", ESPN
 http://181.78.79.131:8000/play/a0s7
+
 #EXTINF:-1 group-title="Deportes", ESPN 2 HD
 http://181.78.79.131:8000/play/a0qj
+
 #EXTINF:-1 group-title="Deportes", ESPN 3 HD
 http://181.78.79.131:8000/play/a0s6
+
 #EXTINF:-1 group-title="Deportes", ESPN 4 HD
 http://181.78.79.131:8000/play/a0s9
+
 #EXTINF:-1 group-title="Deportes", ESPN 5 HD
 http://181.78.79.131:8000/play/a0s5
+
 #EXTINF:-1 group-title="Deportes", ESPN 6 HD
 http://181.78.79.131:8000/play/a0s3
+
 #EXTINF:-1 group-title="Deportes", ESPN 7 HD
 http://181.78.79.131:8000/play/a0s8
+
 #EXTINF:-1 group-title="Deportes", Enlace
 http://181.78.79.131:8000/play/a0pj
+
 #EXTINF:-1 group-title="Deportes", Espn Premium
 http://181.78.79.131:8000/play/a0r2
-#EXTINF:-1 group-title="Peliculas", HBO
-http://181.78.79.131:8000/play/a0qd
-#EXTINF:-1 group-title="Deportes", HBO Xtreme HD
-http://181.78.79.131:8000/play/a0qy
-#EXTINF:-1 group-title="Entretenimiento", HGTV
-http://181.78.79.131:8000/play/a0pf
-#EXTINF:-1 group-title="Documental", History Channel
-http://181.78.79.131:8000/play/a0st
-#EXTINF:-1 group-title="Documental", TLC
-http://181.78.79.131:8000/play/a0t3
-#EXTINF:-1 group-title="Novelas", TNT Novelas HD
-http://181.78.79.131:8000/play/a0na
+
 #EXTINF:-1 group-title="Deportes", TNT Sports Premium SD
 http://181.78.79.131:8000/play/a0q9
-#EXTINF:-1 group-title="Novelas", Tlnovelas
-http://181.78.79.131:8000/play/a0t6
-#EXTINF:-1 group-title="Caricaturas", Tooncast
-http://181.78.79.131:8000/play/a0pe
-#EXTINF:-1 group-title="Peliculas", UNIVERSAL CHANNEL HD
-http://181.78.79.131:8000/play/a0mw
-#EXTINF:-1 group-title="Peliculas", Warner
-http://181.78.79.131:8000/play/a0sz
-#EXTINF:-1 group-title="Peluculas", Warner TV HD
-http://181.78.79.131:8000/play/a0pz
-#EXTINF:-1 group-title="Musica", Zona Latina
-http://181.78.79.131:8000/play/a0su
-#EXTINF:-1 group-title="Musicas", BANDAMAX
-http://181.78.8.199:8000/play/a0g9/index.m3u8
 
 #EXTINF:-1 group-title="Deportes", La liga
 https://s1.envivoslatam99.sbs/tntar/tracks-v1a1/mono.m3u8?ip=189.238.241.7&token=b2b2a95705dad95121562ba16639d6a5ee91563b-cc-1790106996-1790052996
+
+----------------------------------------------------------------NOVELAS---------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Novelas", TNT Novelas 
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+
+#EXTINF:-1 group-title="Novelas", TNT Novelas HD
+http://181.78.79.131:8000/play/a0na
+
+#EXTINF:-1 group-title="Novelas", Tlnovelas
+http://181.78.79.131:8000/play/a0t6
+
+-----------------------------------------------------------------------MUSICA-----------------------------------------------------------------------------------------
+
+#EXTINF-1 group-title="Musica",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="Musica", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="Musica", Zona Latina
+http://181.78.79.131:8000/play/a0su
+
+#EXTINF:-1 group-title="Musicas", BANDAMAX
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
